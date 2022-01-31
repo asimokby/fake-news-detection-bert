@@ -1,4 +1,4 @@
-# fake-news-detection-bert
+# Fake News Detection using Bert embeddings 
 
 Fake news is false or misleading information. False information can cause several problems because people and even governments could take action based on fake news. And some actions could lead to very serious losses. Therefore, detecting whether published news is fake or not is a serious task, especially nowadays where we live in a small world where everyone can stream news to the world in a matter of seconds. In this project, we address the fake news detection problem, classifying given news as normal or fake.
 
